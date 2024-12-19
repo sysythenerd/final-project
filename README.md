@@ -1,1 +1,1 @@
-# This repository contains a full documentation of my course project INSE6220.
+project INSE6220.
